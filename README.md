@@ -1,4 +1,5 @@
 # bday_reminder
+<<<<<<< HEAD
 This package creates a reminder for upcoming and recently passed birthdays.
 
 ## Description
